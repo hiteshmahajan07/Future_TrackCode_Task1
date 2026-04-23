@@ -51,11 +51,6 @@ The dataset contains:
 
 ---
 
-## 📷 Dashboard Preview
-(Add your screenshot here)
-
----
-
 ## 🚀 How to Use
 1. Download the `.pbix` file
 2. Open in Power BI Desktop
